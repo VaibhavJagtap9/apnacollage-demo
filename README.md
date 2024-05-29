@@ -1,4 +1,4 @@
 # apnacollage-demo
 first next js project
 <br>
-Author - Vaibhav Jagtap
+Author - Vaibhav (Jagtap)
